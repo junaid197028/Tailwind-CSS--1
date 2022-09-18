@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: "Euclidsquare";
+    src: url("./fonts/EuclidSquare-Regular-WebS.woff2") format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Euclidsquare";
+    src: url("./fonts/EuclidSquare-Medium-WebS.woff2") format('woff2');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Euclidsquare";
+    src: url("./fonts/EuclidSquare-Bold-WebS.woff2") format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Euclidsquare";
+    src: url("./fonts/EuclidSquare-Light-WebS.woff2") format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Euclidsquare";
+    src: url("./fonts/EuclidSquare-Semibold-WebS.woff2") format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.Euclidsquare {
+    font-family: "Euclidsquare";
+}
